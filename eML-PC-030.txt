@@ -1,1 +1,14 @@
-eML-PC-030
+Gerätename	DiesePC
+Prozessor	Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz   3.79 GHz
+Installierter RAM	64,0 GB
+Geräte-ID	C836B25E-A97D-4B5F-922F-89984448B010
+Produkt-ID	00330-80000-00000-AA774
+Systemtyp	64-Bit-Betriebssystem, x64-basierter Prozessor
+Stift- und Toucheingabe	Für diese Anzeige ist keine Stift- oder Toucheingabe verfügbar.
+
+Edition	Windows 11 Pro
+Version	23H2
+Installiert am	‎16.‎03.‎2023
+Betriebssystembuild	22631.4037
+Leistung	Windows Feature Experience Pack 1000.22700.1027.0
+
